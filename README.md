@@ -112,7 +112,7 @@ plt.show()
 ```
 
 ### Results
-![Salary distribution of Data Jobs in the US](3_Project\Images\Salary_analysis.png)
+![Salary distribution of Data Jobs in the US](3_Project/Images/Salary_analysis.png)
 *Box plot visualizing the salary distributions for the top 6 data job titles*
 
 ### Insights
